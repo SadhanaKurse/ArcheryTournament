@@ -138,3 +138,15 @@ Achni: 2
 Bathar: 4
 
 Game over. Gyrhuna won!!!
+
+
+Steps to run
+1. Extract the zip folder
+2. Rename main.txt to main.js
+3. Open index.html in any browsers (chrome recommended)
+4. Refresh to see different values 
+5. To change the values - main.js has JSON initialized 
+
+It is a simple Javascript, HTML and css application
+
+CDN used https://code.jquery.com/jquery-1.9.1.min.js
